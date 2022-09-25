@@ -1,11 +1,12 @@
 #include <iostream>
 #include <conio.h>
 using namespace std;
+
 int main() {
 int tombol, makanan, minuman, snack, dessert; 
 char pilihan;
 
-cout<<"\n\n ===================================="<<endl;
+cout<<"\n ===================================="<<endl;
 cout<< " = Selamat Datang di Restaurant CPP ="<<endl;
 cout<<" ===================================="<<endl;
 
